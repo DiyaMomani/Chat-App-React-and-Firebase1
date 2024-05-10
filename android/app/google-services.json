@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456067350742",
+    "project_id": "chatapp-toturial2",
+    "storage_bucket": "chatapp-toturial2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456067350742:android:3c62f579173f8cf1dd8977",
+        "android_client_info": {
+          "package_name": "com.chatapp_tutorial2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATDu00gS1A58voeTqmNPaF1gUow3BHdQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
